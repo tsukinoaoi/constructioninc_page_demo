@@ -1,0 +1,122 @@
+@media (max-width:320px)
+{
+    .logo 
+    {
+        width: 20%;
+        height: auto;
+     } 
+}
+
+@media (min-width:320px)  {
+/* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+.card-img
+{
+  width: 100%;
+  max-width: 90px;
+  height: auto;
+}
+.logo 
+{
+    width: 35%;
+    height: auto;
+ } 
+    
+    }
+@media (min-width:480px)  { 
+/* smartphones, Android phones, landscape iPhone */
+.card-img
+{
+  width: 100%;
+  max-width: 90px;
+  height: auto;
+}
+.logo 
+{
+    width: 50%;
+    height: auto;
+ } 
+}
+@media (min-width:600px)  { 
+/* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */ 
+.card-img
+{
+  width: 100%;
+  max-width: 90px;
+  height: auto;
+}
+
+.logo 
+{
+    width: 100%;
+    height: auto;
+ } 
+
+ .menu
+ {
+  display:flex;
+  justify-content: end;
+ }
+
+}
+@media (min-width:801px)  { 
+/* tablet, landscape iPad, lo-res laptops ands desktops */
+.card-img
+{
+  width: 100%;
+  max-width: 120px;
+  height: auto;
+}
+
+.card-img 
+{
+padding: 10px;
+z-index: 1;
+position: absolute;
+left: -30px;
+top: -70px;
+}
+
+ }
+@media (min-width:1025px) { 
+/* big landscape tablets, laptops, and desktops */ 
+.card-img
+{
+  width: 100%;
+  max-width: 170px;
+  height: auto;
+}
+}
+@media (min-width:1281px) {
+ /* hi-res laptops and desktops */ 
+
+}
+
+.subtitle 
+{
+    color: #4785DD;
+}
+
+.card.mb-3
+{
+    box-shadow: 13px 11px 17px -10px rgba(0,0,0,0.59);
+    -webkit-box-shadow: 13px 11px 17px -10px rgba(0,0,0,0.59);
+    -moz-box-shadow: 13px 11px 17px -10px rgba(0,0,0,0.59);
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+
+.social-media
+{
+    width: 100%;
+    max-width: 20px;
+    height: auto;
+    margin: 10px;
+}
+.section-footer
+{
+    padding:70px;
+     background-color: #c6c8ca; 
+     clip-path: polygon(49% 83%, 100% 63%, 100% 100%, 25% 100%, 0 100%, 0 61%);
+
+}
