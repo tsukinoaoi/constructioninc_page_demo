@@ -3,4 +3,5 @@
 
 visit : https://tsukinoaoi.github.io/constructioninc_page_demo/
 
-![image1](https://user-images.githubusercontent.com/64287766/170326976-8d499460-34ca-47a6-a965-9e79a57a5aff.png)
+![image](https://user-images.githubusercontent.com/64287766/170329041-9a85a719-310f-4a37-8db7-65090471abde.png)
+
